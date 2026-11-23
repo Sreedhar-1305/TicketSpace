@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="config/|controller/|service/" kind="src" path="backend/src/main/java/com/ticketspace"/>
+	<classpathentry kind="src" path="backend/src/main/java/com/ticketspace/config"/>
+	<classpathentry kind="src" path="backend/src/main/java/com/ticketspace/controller"/>
+	<classpathentry kind="src" path="backend/src/main/java/com/ticketspace/service"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
